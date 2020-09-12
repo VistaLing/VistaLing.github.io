@@ -1,11 +1,14 @@
 ---
-title: "Peter John Landin"
-subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
+title: "Data Representation - Floating Point Numbers"
+subtitle: "「数据表示」浮点数"
 layout: post
 author: "Hux"
 header-style: text
 tags:
-  - CS Idols
+  - 笔记
+  - 基础
+  - C
+  - C++
 ---
 
 > - [wiki](https://en.wikipedia.org/wiki/Peter_Landin) 
