@@ -692,7 +692,7 @@ h4 {
   font-size: 21px;
 }
 a {
-  color: #404040;
+  color: #708090;
 }
 a:hover,
 a:focus {
@@ -1333,7 +1333,6 @@ samp {
   border-bottom-left-radius: 5px;
 }
 footer {
-  font-size: 20px;
   padding: 50px 0 65px;
 }
 footer .list-inline {
