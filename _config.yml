@@ -101,10 +101,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-    #    title: "乱序",
-     #   href: "http://mida.re/"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/yekepy"
+    },{
+        title: "CSDN",
+        href: "https://blog.csdn.net/ityard"
     }
 ]
