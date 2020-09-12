@@ -22,11 +22,11 @@
   text-decoration: none;
 }
 .sidebar-container a {
-  color: #bfbfbf !important;
+  color: #0085a1 !important;
 }
 .sidebar-container a:hover,
 .sidebar-container a:active {
-  color: #0085a1 !important;
+  color: #337ab7 !important;
 }
 .sidebar-container .tags a {
   border-color: #bfbfbf;
