@@ -1694,3 +1694,6 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+.sidebar-container ul li a {
+    color: #fbfbfb;
+}
