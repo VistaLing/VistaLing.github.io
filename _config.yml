@@ -1,7 +1,7 @@
 # Site settings
 title: Python小二
 SEOTitle: 
-header-img: #img/home-bg.jpg
+header-img: img/home-bg.jpg
 email: ityard@163.com
 description: "公众号：Python小二"
 keyword: "Python, 基础, 进阶, 爬虫, 可视化, 自动化, 数据分析"
