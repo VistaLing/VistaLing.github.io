@@ -997,13 +997,13 @@ samp {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 20px;
   font-weight: 800;
   letter-spacing: 1px;
 }
 .navbar-custom .nav li a:active {
-  background: rgba(0, 0, 0, 0.12);
+  background: rgba(0,0,0,.12);
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -1023,12 +1023,12 @@ samp {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: 0085a1;
+    color: #404040;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #0085a1;
   }
   .navbar-custom .nav li a:active {
     background: none;
