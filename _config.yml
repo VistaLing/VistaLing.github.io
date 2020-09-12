@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "微信扫描关注<br>免费领取学习资料、获取源码"
+sidebar-about-description: "微信扫描关注我的公众号<br>免费领取学习资料、获取源码"
 sidebar-avatar: /img/qrcode.bmp      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
