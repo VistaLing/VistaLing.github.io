@@ -692,7 +692,7 @@ h4 {
   font-size: 21px;
 }
 a {
-  color: #708090;
+  color: #404040;
 }
 a:hover,
 a:focus {
@@ -997,12 +997,13 @@ samp {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 12px;
   line-height: 20px;
   font-weight: 800;
   letter-spacing: 1px;
 }
 .navbar-custom .nav li a:active {
+  background: rgba(0, 0, 0, 0.12);
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -1022,12 +1023,12 @@ samp {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: #fff;
+    color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(0,0,0,.12);
+    color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a:active {
     background: none;
@@ -1332,6 +1333,7 @@ samp {
   border-bottom-left-radius: 5px;
 }
 footer {
+  font-size: 20px;
   padding: 50px 0 65px;
 }
 footer .list-inline {
