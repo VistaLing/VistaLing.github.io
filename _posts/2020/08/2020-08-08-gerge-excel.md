@@ -15,7 +15,7 @@ tags:
 
 需要合并的 Excel 如下：
 
-​[](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9QdlA2cWpVcHZJb0w4OUdaeGNzYmQzNFBGOGExbmhpYUJBaWNWMUFnR0l1TXZ1aGxNRlVkR2NyZmdQMm5od0tDOGp4aWFGNmdROFg5TDRDajZSVFdTejdOQS82NDA?x-oss-process=image/format,png)
+​![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9QdlA2cWpVcHZJb0w4OUdaeGNzYmQzNFBGOGExbmhpYUJBaWNWMUFnR0l1TXZ1aGxNRlVkR2NyZmdQMm5od0tDOGp4aWFGNmdROFg5TDRDajZSVFdTejdOQS82NDA?x-oss-process=image/format,png)
 
 代码实现如下：
 
@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
 合并后的 Excel 文件如下：
 
-[](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9QdlA2cWpVcHZJb0w4OUdaeGNzYmQzNFBGOGExbmhpYUJPOU81aGhxamlhSExjOEs5VHlNSEhXdGx0OWtuYnh6c2liMHVlMHB4WWZvRXZEdnRDdFNsTk1zQS82NDA?x-oss-process=image/format,png)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9QdlA2cWpVcHZJb0w4OUdaeGNzYmQzNFBGOGExbmhpYUJPOU81aGhxamlhSExjOEs5VHlNSEhXdGx0OWtuYnh6c2liMHVlMHB4WWZvRXZEdnRDdFNsTk1zQS82NDA?x-oss-process=image/format,png)
 
 当然了，你可能会想到这只是简单的合并，如果是是复杂的 Excel 合并呢？比如需要合并的 Excel 文件格式不同，最终合并的 Excel 文件格式也是自定义的，对于这种情况，如果对你而言是一个多次重复的工作，可以考虑利用 Python 进行编码实现；反之，则并一定要编码来实现合并，因为你用编码来实现合并可能比手动合并花费的时间更多。
 
