@@ -1,7 +1,7 @@
 # Site settings
 title: Python小二
 SEOTitle: 
-header-img: img/home-bg.jpg
+header-img: img/tag-bg.jpg
 email: ityard@163.com
 description: 
 keyword: "Python, 基础, 进阶, 爬虫, 可视化, 自动化, 数据分析"
@@ -101,10 +101,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "知乎",
-        href: "https://www.zhihu.com/people/yekepy"
+        title: "html2md",
+        href: "http://domchristie.github.io/turndown"
     },{
-        title: "CSDN",
-        href: "https://blog.csdn.net/ityard"
+        title: "mdnice",
+        href: "https://www.mdnice.com"
     }
 ]
