@@ -6,4 +6,4 @@
 
 ## 个人微信公众号
 
-![]()
+![](https://files-cdn.cnblogs.com/files/ityard/qrcode.bmp)
