@@ -6,4 +6,4 @@
 
 ## 个人微信公众号
 
-![](https://ityard.github.io/img/qrcode.bmp)
+![](https://files-cdn.cnblogs.com/files/ityard/gzh.bmp)
