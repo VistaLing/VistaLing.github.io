@@ -1308,12 +1308,11 @@ samp {
   font-size: 13px;
   /* font-style: italic; */
   /* color: #a3a3a3; */
-  border: 1px solid #ccc;
   padding: 5px 5px 5px 5px;
   background-color: #f4f4f4;
 }
 .post-content-preview:hover {
-  color: #0085a1;
+  /*color: #0085a1;*/
 }
 @media only screen and (min-width: 768px) {
   .post-content-preview {
