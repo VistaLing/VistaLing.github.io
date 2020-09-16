@@ -2,7 +2,9 @@
 
 使用主题：[Jekyll-Huxpro](https://github.com/Huxpro/huxpro.github.io)
 
-访问地址：[https://ityard.gitee.io](https://ityard.gitee.io) | [https://ityard.github.io](https://ityard.github.io)
+访问地址：[https://ityard.gitee.io](https://ityard.gitee.io)
+
+备用地址：[https://ityard.github.io](https://ityard.github.io)
 
 ## 个人微信公众号
 
