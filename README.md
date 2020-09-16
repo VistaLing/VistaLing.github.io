@@ -2,10 +2,10 @@
 
 使用主题：[Jekyll-Huxpro](https://github.com/Huxpro/huxpro.github.io)
 
-访问地址：[http://ityard.gitee.io](http://ityard.gitee.io) | [http://ityard.github.io](http://ityard.github.io)
+访问地址：[https://ityard.gitee.io](https://ityard.gitee.io) | [https://ityard.github.io](https://ityard.github.io)
 
 ## 个人微信公众号
 
-![](/img/qrcode.jpg)
+![](https://ityard.github.io/img/qrcode.jpg)
 
-关注公众号 **Python小二**，第一时间阅读、获取源码，回复关键字 **1024** 可以免费领取个人整理的各类编程语言学习资料。
+欢迎关注公众号 **Python小二**，第一时间阅读、获取源码，回复关键字 **1024** 可以免费领取个人整理的各类编程语言学习资料。
