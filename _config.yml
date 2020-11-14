@@ -101,10 +101,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "html2md",
-        href: "http://domchristie.github.io/turndown"
+        title: "我的知乎",
+        href: "https://www.zhihu.com/people/yekepy"
     },{
-        title: "mdnice",
-        href: "https://www.mdnice.com"
+        title: "我的CSDN",
+        href: "https://ityard.blog.csdn.net"
     }
 ]
