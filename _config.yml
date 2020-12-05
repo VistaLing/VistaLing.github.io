@@ -106,5 +106,8 @@ friends: [
     },{
         title: "我的CSDN",
         href: "https://ityard.blog.csdn.net"
+    },{
+        title: "我的思否",
+        href: "https://segmentfault.com/u/ityard"
     }
 ]
