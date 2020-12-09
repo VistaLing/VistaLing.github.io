@@ -2,7 +2,7 @@
 
 使用主题：[Jekyll-Huxpro](https://github.com/Huxpro/huxpro.github.io)
 
-访问地址：[http://pythontalk.cn](http://pythontalk.cn)
+访问地址：[https://pythontalk.cn](https://pythontalk.cn)
 
 ## 个人微信公众号
 
