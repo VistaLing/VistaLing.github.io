@@ -6,6 +6,6 @@
 
 ## 个人微信公众号
 
-![](https://ityard.gitee.io/img/qrcode.jpg)
+![](https://pythontalk.cn/img/qrcode.gif)
 
 回复 **1024** 免费领取各类编程语言学习资料。
