@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-tencent_username: ityard    
+tencent_username: ityard     
 zhihu_username: ityard    
 github_username: ityard   
 csdn_username: ityard  
