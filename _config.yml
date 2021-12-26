@@ -5,7 +5,7 @@ header-img: img/about-bg-walle.jpg
 email: ityard@163.com
 description: Python基础教程 | Python爬虫 | Python数据分析
 keyword: "Python基础, Python进阶, Python教程, Python爬虫, Python可视化, Python自动化, Python数据分析"
-url: "http://pythontalk.cn"              # your host, for absolute URL
+url: "ityard.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
