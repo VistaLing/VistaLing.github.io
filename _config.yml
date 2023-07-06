@@ -4,7 +4,7 @@ SEOTitle: Link Blog | 凌的博客
 header-img: img/about-bg.jpg
 email: vistaling@foxmail.com
 description: HPC并行计算 | AI深度学习 | CFD高精度仿真
-keyword: "HPC并行计算 | AI深度学习 | CFD高精度仿真"
+keyword: "HPC并行计算，AI深度学习，CFD高精度仿真"
 url: "VistaLing.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -119,6 +119,4 @@ friends: [
         title: "知乎热榜",
         href: "https://www.zhihu.com/billboard"
     }
-]
-]
 ]
