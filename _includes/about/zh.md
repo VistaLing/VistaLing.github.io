@@ -1,9 +1,7 @@
 ## 个人博客
 
-访问地址：[http://pythontalk.cn](http://pythontalk.cn)
+访问地址：[https://VistaLing.github.io](https://VistaLing.github.io)
 
-## 个人微信公众号
+## 联系方式
 
-![](https://pythontalk.cn/img/qrcode.gif)
-
-欢迎关注公众号 **Python小二**，第一时间阅读、获取源码，回复关键字 **1024** 可以免费领取个人整理的各类编程语言学习资料。
+个人邮箱：[vistaling@foxmail.com](vistaling@foxmail.com)
