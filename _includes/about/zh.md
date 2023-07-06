@@ -5,13 +5,14 @@
 Vista Ling
 
 ## 职称
-职称/头衔
+高级软件架构工程师
+百川科技创始人
 
 ## 学位
 博士/电子信息
 
 ## 电子邮件
-vistaling@foxmail.com
+[vistaling@foxmail.com](vistaling@foxmail.com)
 
 ## 个人网站
 [https://VistaLing.github.io](https://VistaLing.github.io)
@@ -30,8 +31,9 @@ vistaling@foxmail.com
 
 # 学术职务
 
-- 职务1，机构1，年份
-- 职务2，机构2，年份
+- 会员，中国计算机学会CCF，2022
+- 成员，四川省计算机学会，2019
+- 成员，四川省青年科技工作者联合会，2018
 
 # 发表论文
 
