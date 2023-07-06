@@ -1,6 +1,6 @@
 # Site settings
 title: Link Blog
-SEOTitle: Link Blog | 个人博客
+SEOTitle: Link Blog | 凌的博客
 header-img: img/about-bg.jpg
 email: vistaling@foxmail.com
 description: 
@@ -112,5 +112,13 @@ friends: [
     },{
         title: "煎蛋热榜",
         href: "http://jandan.net/top-4h"
+    },{
+        title: "抽屉热榜",
+        href: "https://dig.chouti.com/"
+    },{
+        title: "知乎热榜",
+        href: "https://www.zhihu.com/billboard"
     }
+]
+]
 ]

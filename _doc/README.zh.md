@@ -1,4 +1,4 @@
-## 个人博客
+## 凌的博客
 
 访问地址：[https://VistaLing.github.io](https://VistaLing.github.io)
 
