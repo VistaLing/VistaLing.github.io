@@ -12,8 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
-tencent_username: VistaLing     
+RSS: false   
 zhihu_username: VistaLing    
 github_username: VistaLing   
 csdn_username: VistaLing   
@@ -102,13 +101,16 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "我的知乎",
-        href: "https://vistaling.github.io/"
+        title: "四川大学",
+        href: "http://www.scu.edu.cn/"
     },{
-        title: "我的CSDN",
-        href: "https://vistaling.github.io/"
+        title: "中国知网",
+        href: "https://www.cnki.net/"
     },{
-        title: "我的Gitee",
-        href: "https://vistaling.gitee.io/"
+        title: "吾爱破解",
+        href: "https://www.52pojie.cn/"
+    },{
+        title: "煎蛋热榜",
+        href: "http://jandan.net/top-4h"
     }
 ]
