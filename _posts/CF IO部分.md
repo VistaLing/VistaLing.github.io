@@ -1,3 +1,13 @@
+---
+title: CF IO LZX
+subtitle: 
+layout: post
+author: "LZX"
+header-style: text
+tags:
+  - Python
+---
+
 # 读取文件信息
 
 ## 流程简介
