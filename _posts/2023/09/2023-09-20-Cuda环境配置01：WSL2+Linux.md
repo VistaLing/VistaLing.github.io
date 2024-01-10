@@ -14,7 +14,7 @@ tags:
 
 # 一、Windows下的Cuda环境配置
 
-Nvidia官方页面通过选择，有不同系统、不同架构、不同版本的CUDA Toolkit可供离线和在线安装，所以版本内容的存档在[CUDA Toolkit Archive | NVIDIA Developer](https://developer.nvidia.com/cuda-toolkit-archive)均可以找到，请注意一一对应。
+Nvidia官方页面通过选择，有不同系统、不同架构、不同版本的CUDA Toolkit可供离线和在线安装，所以版本内容的存档在[https://developer.nvidia.com/cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)均可以找到，请注意一一对应。
 
 Windows平台的安装比较简单，下载需要版本后，双击即可自动完成安装和系统环境配置。
 
@@ -58,7 +58,7 @@ Build cuda_11.8.r11.8/compiler.31833905_0
 
 # 二、WSL2下的Linux系统部署
 
-微软[安装 WSL | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/install)在Windows 10 21H2以及更高版本中提供了WSL2可以直接驱动Linux系统，同时英伟达官方提供该虚拟系统的Cuda的直驱版本，非常方便可以使Windows和Linux无缝衔接，双系统调试和编译。
+微软[https://learn.microsoft.com/zh-cn/windows/wsl/install](https://learn.microsoft.com/zh-cn/windows/wsl/install)在Windows 10 21H2以及更高版本中提供了WSL2可以直接驱动Linux系统，同时英伟达官方提供该虚拟系统的Cuda的直驱版本，非常方便可以使Windows和Linux无缝衔接，双系统调试和编译。
 
 在管理员模式下打开 PowerShell 或 Windows 命令提示符，输入命令：
 
@@ -101,7 +101,7 @@ wsl --install -d <NAME>
 
 # 三、Linux下的Cuda环境配置
 
-在[CUDA Toolkit Archive | NVIDIA Developer](https://developer.nvidia.com/cuda-toolkit-archive)页面中选择对应windows主机的cuda版本，选择Linux下WSL_Ubuntu系统，个人喜好使用第三种方式离线安装：
+在[https://learn.microsoft.com/zh-cn/windows/wsl/install](https://developer.nvidia.com/cuda-toolkit-archive)页面中选择对应windows主机的cuda版本，选择Linux下WSL_Ubuntu系统，个人喜好使用第三种方式离线安装：
 
 ```
 wget https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_520.61.05_linux.run
