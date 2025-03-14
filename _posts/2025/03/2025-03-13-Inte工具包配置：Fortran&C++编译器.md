@@ -90,3 +90,8 @@ export F90=ifx
 export FC=ifx
 ```
 
+如编译提示编译器冲突，可以进行卸载，如：
+
+```bash
+unset F90=ifx
+```
