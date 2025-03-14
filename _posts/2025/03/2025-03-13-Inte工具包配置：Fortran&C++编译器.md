@@ -80,5 +80,13 @@ which ifort
 
 gfortran 使用的是 -fmodules 选项来指定模块文件的输出目录。
 
-**解决方法**：如果你使用的是 gfortran，请将 Makefile 中的 -module 替换为 -fmodules。
+**解决方法**：强制使用intel的icx和ifort（新版为ifx）编译器，需要在./configure之前，临时环境有效。
+
+```
+export CC=icx
+export CXX=icpx
+export F77=ifx
+export F90=ifx
+export FC=ifx
+```
 
